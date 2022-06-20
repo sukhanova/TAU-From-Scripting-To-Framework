@@ -1,13 +1,16 @@
 using System.IO;
 using System.Linq;
+using Framework.Models;
+using Framework.Services;
 using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using Royale.Pages;
+#nullable disable
 
 namespace Tests
 {
-    public class CardTests
+    public class CardTests 
     {
         IWebDriver driver;
 
@@ -47,6 +50,27 @@ namespace Tests
             Assert.AreEqual("Troop", category);
             Assert.AreEqual("Arena 8", arena);
             Assert.AreEqual("Common", cardRarity);
+        }
+
+        static string[] cardNames = { "Ice Spirit", "Mirror" };
+
+        [Test, Category("cards")]
+        [TestCaseSource("cardNames")]
+        //to run tests in parallel:
+        [Parallelizable(ParallelScope.Children)]
+        public void Card_headers_are_correct_on_Card_Details_Page(string cardName)
+        {
+            
+            new CardsPage(driver).Goto().GetCardByName(cardName).Click();
+            var cardDetails = new CardDetailsPage(driver);
+
+            var cardOnPage = cardDetails.GetBaseCard();
+            var card = new InMemoryCardService().GetCardByName(cardName);
+
+            Assert.AreEqual(card.Name, cardOnPage.Name);
+            Assert.AreEqual(card.Type, cardOnPage.Type);
+            Assert.AreEqual(card.Arena, cardOnPage.Arena);
+            Assert.AreEqual(card.Rarity, cardOnPage.Rarity);
         }
     }
 }
