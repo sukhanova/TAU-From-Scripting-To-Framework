@@ -11,8 +11,7 @@
           "Microsoft.NET.Test.Sdk": "16.11.0",
           "NUnit": "3.13.2",
           "NUnit3TestAdapter": "4.0.0",
-          "Selenium.Support": "4.2.0",
-          "Selenium.WebDriver": "4.2.0",
+          "Royale": "1.0.0",
           "coverlet.collector": "3.1.0"
         },
         "runtime": {
@@ -337,7 +336,24 @@
           }
         }
       },
-      "System.Reflection.Metadata/1.6.0": {}
+      "System.Reflection.Metadata/1.6.0": {},
+      "Framework/1.0.0": {
+        "dependencies": {
+          "Selenium.Support": "4.2.0",
+          "Selenium.WebDriver": "4.2.0"
+        },
+        "runtime": {
+          "Framework.dll": {}
+        }
+      },
+      "Royale/1.0.0": {
+        "dependencies": {
+          "Framework": "1.0.0"
+        },
+        "runtime": {
+          "Royale.dll": {}
+        }
+      }
     }
   },
   "libraries": {
@@ -443,6 +459,16 @@
       "sha512": "sha512-COC1aiAJjCoA5GBF+QKL2uLqEBew4JsCkQmoHKbN3TlOZKa2fKLz5CpiRQKDz0RsAOEGsVKqOD5bomsXq/4STQ==",
       "path": "system.reflection.metadata/1.6.0",
       "hashPath": "system.reflection.metadata.1.6.0.nupkg.sha512"
+    },
+    "Framework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Royale/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "cTyx9/SDsbZbI+T1ZdDFE2XFcCvxQLRISyNE5zhv8Pj3wuHjwuEXuhaIjq64uFeP1bKNGZjR+3es6CaOCV/zXA==",
+  "dgSpecHash": "M6Cuh+nLQiJwi28LiY8Ofxm5eCPgNEyKkMQGSOAHX5JlhOWlDjTwGlGHR5vh1Ttrlw8fMd25hUQXpLgdea88tA==",
   "success": true,
   "projectFilePath": "/Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Framework/Framework.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/virasukhanova/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/virasukhanova/.nuget/packages/selenium.support/4.2.0/selenium.support.4.2.0.nupkg.sha512",
+    "/Users/virasukhanova/.nuget/packages/selenium.webdriver/4.2.0/selenium.webdriver.4.2.0.nupkg.sha512"
+  ],
   "logs": []
 }

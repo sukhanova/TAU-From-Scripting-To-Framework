@@ -382,6 +382,33 @@
         "runtime": {
           "lib/netstandard2.0/System.Reflection.Metadata.dll": {}
         }
+      },
+      "Framework/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Selenium.Support": "4.2.0",
+          "Selenium.WebDriver": "4.2.0"
+        },
+        "compile": {
+          "bin/placeholder/Framework.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Framework.dll": {}
+        }
+      },
+      "Royale/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Framework": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Royale.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Royale.dll": {}
+        }
       }
     }
   },
@@ -1303,6 +1330,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Framework/1.0.0": {
+      "type": "project",
+      "path": "../Framework/Framework.csproj",
+      "msbuildProject": "../Framework/Framework.csproj"
+    },
+    "Royale/1.0.0": {
+      "type": "project",
+      "path": "../Royale/Royale.csproj",
+      "msbuildProject": "../Royale/Royale.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1310,8 +1347,7 @@
       "Microsoft.NET.Test.Sdk >= 16.11.0",
       "NUnit >= 3.13.2",
       "NUnit3TestAdapter >= 4.0.0",
-      "Selenium.Support >= 4.2.0",
-      "Selenium.WebDriver >= 4.2.0",
+      "Royale >= 1.0.0",
       "coverlet.collector >= 3.1.0"
     ]
   },
@@ -1339,7 +1375,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Royale/Royale.csproj": {
+              "projectPath": "/Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Royale/Royale.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -1363,14 +1403,6 @@
           "NUnit3TestAdapter": {
             "target": "Package",
             "version": "[4.0.0, )"
-          },
-          "Selenium.Support": {
-            "target": "Package",
-            "version": "[4.2.0, )"
-          },
-          "Selenium.WebDriver": {
-            "target": "Package",
-            "version": "[4.2.0, )"
           },
           "coverlet.collector": {
             "target": "Package",

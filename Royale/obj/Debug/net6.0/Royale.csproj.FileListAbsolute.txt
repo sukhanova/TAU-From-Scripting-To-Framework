@@ -1,11 +1,14 @@
 /Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Royale/bin/Debug/net6.0/Royale.deps.json
 /Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Royale/bin/Debug/net6.0/Royale.dll
 /Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Royale/bin/Debug/net6.0/Royale.pdb
+/Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Royale/bin/Debug/net6.0/Framework.dll
+/Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Royale/bin/Debug/net6.0/Framework.pdb
 /Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Royale/obj/Debug/net6.0/Royale.csproj.AssemblyReference.cache
 /Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Royale/obj/Debug/net6.0/Royale.GeneratedMSBuildEditorConfig.editorconfig
 /Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Royale/obj/Debug/net6.0/Royale.AssemblyInfoInputs.cache
 /Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Royale/obj/Debug/net6.0/Royale.AssemblyInfo.cs
 /Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Royale/obj/Debug/net6.0/Royale.csproj.CoreCompileInputs.cache
+/Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Royale/obj/Debug/net6.0/Royale.csproj.CopyComplete
 /Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Royale/obj/Debug/net6.0/Royale.dll
 /Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Royale/obj/Debug/net6.0/refint/Royale.dll
 /Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Royale/obj/Debug/net6.0/Royale.pdb
