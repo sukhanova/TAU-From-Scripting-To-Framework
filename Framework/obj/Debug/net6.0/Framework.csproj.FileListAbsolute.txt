@@ -1,0 +1,12 @@
+/Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Framework/bin/Debug/net6.0/Framework.deps.json
+/Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Framework/bin/Debug/net6.0/Framework.dll
+/Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Framework/bin/Debug/net6.0/Framework.pdb
+/Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Framework/obj/Debug/net6.0/Framework.csproj.AssemblyReference.cache
+/Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Framework/obj/Debug/net6.0/Framework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Framework/obj/Debug/net6.0/Framework.AssemblyInfoInputs.cache
+/Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Framework/obj/Debug/net6.0/Framework.AssemblyInfo.cs
+/Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Framework/obj/Debug/net6.0/Framework.csproj.CoreCompileInputs.cache
+/Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Framework/obj/Debug/net6.0/Framework.dll
+/Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Framework/obj/Debug/net6.0/refint/Framework.dll
+/Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Framework/obj/Debug/net6.0/Framework.pdb
+/Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Framework/obj/Debug/net6.0/ref/Framework.dll
