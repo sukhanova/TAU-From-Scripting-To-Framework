@@ -96,3 +96,5 @@
 /Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Royale.Tests/obj/Debug/net6.0/Royale.Tests.pdb
 /Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Royale.Tests/obj/Debug/net6.0/Royale.Tests.genruntimeconfig.cache
 /Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Royale.Tests/obj/Debug/net6.0/ref/Royale.Tests.dll
+/Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Royale.Tests/bin/Debug/net6.0/WebDriver.Support.dll
+/Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Royale.Tests/bin/Debug/net6.0/WebDriver.dll
