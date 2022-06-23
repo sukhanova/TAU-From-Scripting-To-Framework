@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "EtivkUBbqXM5zl1pOGfixIxhtBQnUpcDnnjUueteVC88YdRlItWCXMa6lXYdvC/X1y1SkwZAU5cGM4WwkWDTgg==",
+  "dgSpecHash": "GN1nS1+WOffS/TX83BOMYo+HmyKdHyxNSz2g/YtnFBApxJ8MdbXDENEKqibwSJcQao8QDBIm6ScJe8Gkb0LF6g==",
   "success": true,
   "projectFilePath": "/Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Royale.Tests/Royale.Tests.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "/Users/virasukhanova/.nuget/packages/nuget.frameworks/5.0.0/nuget.frameworks.5.0.0.nupkg.sha512",
     "/Users/virasukhanova/.nuget/packages/nunit/3.13.2/nunit.3.13.2.nupkg.sha512",
     "/Users/virasukhanova/.nuget/packages/nunit3testadapter/4.0.0/nunit3testadapter.4.0.0.nupkg.sha512",
+    "/Users/virasukhanova/.nuget/packages/restsharp/108.0.1/restsharp.108.0.1.nupkg.sha512",
     "/Users/virasukhanova/.nuget/packages/selenium.support/4.2.0/selenium.support.4.2.0.nupkg.sha512",
     "/Users/virasukhanova/.nuget/packages/selenium.webdriver/4.2.0/selenium.webdriver.4.2.0.nupkg.sha512",
     "/Users/virasukhanova/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"

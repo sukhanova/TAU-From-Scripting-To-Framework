@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "a0ULLVPFB+5SvFBh5A6QqPaksrKeG3j6Z7gY/N/eGNWaJ56v6QDD9A7dqj+UB6hFuYmgqyDYXl+Rl0/Ry9f3Vw==",
+  "dgSpecHash": "NByFAlcZBDOQ44RwarTEwTkarV1Y/aOr9cpkt6CX5z1AjF/QSk7N1/ad5buolrRam/kt2RMXvMK3tFaI5j/Mew==",
   "success": true,
   "projectFilePath": "/Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Framework/Framework.csproj",
   "expectedPackageFiles": [
     "/Users/virasukhanova/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/virasukhanova/.nuget/packages/restsharp/108.0.1/restsharp.108.0.1.nupkg.sha512",
     "/Users/virasukhanova/.nuget/packages/selenium.support/4.2.0/selenium.support.4.2.0.nupkg.sha512",
     "/Users/virasukhanova/.nuget/packages/selenium.webdriver/4.2.0/selenium.webdriver.4.2.0.nupkg.sha512"
   ],

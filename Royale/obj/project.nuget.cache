@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Z9pzls2uPwnmEiI+D3pW8kX8wgkbsUMP2sMZeWRBL7lAjSxK8E+81PuAMwIaqCYJfvhRhXqNeJce2htp3Tym5Q==",
+  "dgSpecHash": "4490CafwIdbUEyuYS0rIFzd4cOXVZlX6NffTXSM2YsEnpE2a53lzoUzCb7cDNBz1pJO5n9uNEmVQdVYqXZvsZA==",
   "success": true,
   "projectFilePath": "/Users/virasukhanova/Desktop/Repos/TAU/scripting-to-framework/Royale/Royale.csproj",
   "expectedPackageFiles": [
     "/Users/virasukhanova/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/virasukhanova/.nuget/packages/restsharp/108.0.1/restsharp.108.0.1.nupkg.sha512",
     "/Users/virasukhanova/.nuget/packages/selenium.support/4.2.0/selenium.support.4.2.0.nupkg.sha512",
     "/Users/virasukhanova/.nuget/packages/selenium.webdriver/4.2.0/selenium.webdriver.4.2.0.nupkg.sha512"
   ],
